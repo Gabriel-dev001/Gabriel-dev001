@@ -12,7 +12,7 @@ Sou um desenvolvedor apaixonado por tecnologia e soluções eficientes. Tenho ex
 
 ## 🚀 **Tecnologias e Ferramentas**  
 
-💻 **Back-end:** Java(Spring Boot), Python(Django, Flask), GoLang, C#(.NET)  
+💻 **Back-end:** Java(Spring Boot), Python(Django, Flask), GoLang, Node.js
 🗄️ **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
 🔗 **APIs:** Desenvolvimento e consumo de REST APIs  
 🌐 **Front-end:** React, React Native, HTML, CSS, JavaScript, Bootstrap  
