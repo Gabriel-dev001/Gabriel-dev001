@@ -2,7 +2,7 @@
 
 ### 💻 **Desenvolvedor Back-end | Entusiasta de APIs e Cloud**  
 
-Sou um desenvolvedor apaixonado por tecnologia e soluções eficientes. Tenho experiência em **Java (Spring Boot), Python (Django, Flask)** e **banco de dados SQL e NoSQL**. Meu foco é no **desenvolvimento back-end** e construção de APIs robustas e escaláveis.  
+Sou um desenvolvedor apaixonado por tecnologia e soluções eficientes. Tenho experiência em **Java (Spring Boot), Python (Django, Flask), PHP (Laravel)** e **banco de dados SQL e NoSQL**. Meu foco é no **desenvolvimento back-end** e construção de APIs robustas e escaláveis.  
 
 🔹 Buscando oportunidades para crescer como desenvolvedor  
 🔹 Apaixonado por **arquitetura de software e boas práticas**  
@@ -12,7 +12,7 @@ Sou um desenvolvedor apaixonado por tecnologia e soluções eficientes. Tenho ex
 
 ## 🚀 **Tecnologias e Ferramentas**  
 
-💻 **Back-end:** Java(Spring Boot), Python(Django, Flask), GoLang, Node.js
+💻 **Back-end:** Java(Spring Boot), Python(Django, Flask), PHP(Laravel) GoLang, Node.js
 🗄️ **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
 🔗 **APIs:** Desenvolvimento e consumo de REST APIs  
 🌐 **Front-end:** React, React Native, HTML, CSS, JavaScript, Bootstrap  
